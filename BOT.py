@@ -12,8 +12,7 @@ from telegram.ext import (
     filters,
 )
 
-import os
-TOKEN = os.getenv("TOKEN")
+TOKEN = "8554528856:AAEWMu_5GSuBoihM4nQyD6qy7do_zztrt5o"
 
 MAIN_ADMIN = 6160632777
 
